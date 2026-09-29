@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "73b7ac96bc31d7ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7a354b908a1610d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbe54034e616584e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter-1-计算机系统漫游/1.4-处理器读并解释储存在内存中的指令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4-处理器读并解释储存在内存中的指令"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57eba6f1cd70f94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "240e0ccc781c3fb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c2e3f2f43745dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "769b0cc9b9320c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "12f81ed2ed9a4a27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.16668701171875
+  },
+  "right": {
+    "id": "2b598ce4e74381df",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ab3c66fda936a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10c84caf08d2dec9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter-1-计算机系统漫游/1.4-处理器读并解释储存在内存中的指令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "3d143435ca639832",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter-1-计算机系统漫游/1.4-处理器读并解释储存在内存中的指令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "da8ab6548b066e7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "afb11c61dfa4c747",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c4c9a4de922b6dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter-1-计算机系统漫游/1.4-处理器读并解释储存在内存中的指令.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "cbe54034e616584e",
+  "lastOpenFiles": [
+    "Chapter-2-信息的表示和处理/README.md",
+    "Chapter-2-信息的表示和处理/2.5-小结.md",
+    "Chapter-2-信息的表示和处理/2.4-浮点数.md",
+    "Chapter-2-信息的表示和处理/2.3-整数运算.md",
+    "Chapter-2-信息的表示和处理/2.2-整数表示.md",
+    "Chapter-2-信息的表示和处理/2.1-信息存储.md",
+    "Chapter-2-信息的表示和处理",
+    "Chapter-1-计算机系统漫游/1.3-了解编译系统如何工作是大有益处的.md",
+    "Chapter-1-计算机系统漫游/1.2-程序被翻译成不同的格式.md",
+    "Chapter-1-计算机系统漫游/1.10-小结.md",
+    "Chapter-1-计算机系统漫游/1.1-信息就是位+上下文.md",
+    "深入理解计算机系统.pdf",
+    "README.md",
+    "project.md"
+  ]
+}
